@@ -1,0 +1,7 @@
+simpy
+numpy
+scipy
+pandas
+matplotlib
+pygame
+jupyter
